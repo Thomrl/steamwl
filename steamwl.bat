@@ -1,0 +1,1 @@
+@py c:\files\MyPythonScripts\steam.py %*
